@@ -12,7 +12,7 @@
 - Плавное движение с ускоренным падением и адаптивным прыжком через `Physics2D.gravity`
 - AI-враги с отталкиванием при ударе
 - Оптимизация под WebGL — игра запускается в браузере без установки  
-[🔗 Репозиторий]([ССЫЛКА_НА_GITHUB](https://github.com/KenWood2b/Snot-in-a-Spacesuit-Adventure)) | [▶️ itch.io]([ССЫЛКА_НА_ITCHIO](https://kenwood2b.itch.io/snot-in-a-spacesuitadventure))
+[🔗 Репозиторий](https://github.com/KenWood2b/Snot-in-a-Spacesuit-Adventure) | [▶️ itch.io](https://kenwood2b.itch.io/snot-in-a-spacesuitadventure)
 
 ---
 
