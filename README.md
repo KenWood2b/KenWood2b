@@ -60,7 +60,7 @@
 ## 📫 Контакты
 - 📱 **Telegram**: [@KenWood2b](https://t.me/KenWood2b)
 - ✉️ **Email**: Kenwood2b@gmail.com
-- 🎮 **itch.io**: [Мой itch.io профиль](ССЫЛКА_НА_ITCHIO)
+- 🎮 **itch.io**: [Мой itch.io профиль](https://kenwood2b.itch.io/)
 
 ---
 ⭐ Если вам интересны мои проекты — буду рад вашим звёздочкам и обратной связи!
