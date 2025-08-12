@@ -1,4 +1,4 @@
-# 👋 Привет, я KenWood2b
+# 👋 Привет, я Никита
 
 🎮 **Unity Developer | 2D/3D Game Development | C# | Tilemaps | Combat Systems | Gameplay Programming | Performance Optimization**
 
