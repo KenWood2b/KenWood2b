@@ -8,15 +8,18 @@
 
 ## 🚀 Проекты
 
+
 ### 🏙️ City Runner 3D — 3D endless runner
  - Разработал с нуля playable prototype 3D endless runner на Unity
  - Реализовал процедурную генерацию дороги, окружения, препятствий, монет и бонусов
  - Добавил управление по полосам: движение влево/вправо, прыжок и пригибание
  - Реализовал бонусы: монеты, броня и магнит с притягиванием монет
  - Настроил HUD, игровые экраны, камеру, освещение и анимации персонажа
-[🔗 Репозиторий](https://github.com/KenWood2b/City_Runner_3D) | [▶️ itch.io](https://kenwood2b.itch.io/city-runner-3d-runner)
+   [🔗 Репозиторий](https://github.com/KenWood2b/City_Runner_3D) | [▶️ itch.io](https://kenwood2b.itch.io/city-runner-3d-runner)
+
 
 ---
+
 
 ### 🪐 Snot in a Spacesuit — 2D платформер
 - Плавное движение с ускоренным падением и адаптивным прыжком через `Physics2D.gravity`
