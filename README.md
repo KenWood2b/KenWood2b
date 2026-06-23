@@ -16,7 +16,7 @@
 - Реализованы пулы противников и снарядов для снижения нагрузки во время боя.
 - Добавлен стресс-тест производительности до 500 противников в Unity Editor.
   
-[🔗 Репозиторий](https://github.com/KenWood2b/Dustline_Arena_Top-Down_Shooter)
+  [🔗 Репозиторий](https://github.com/KenWood2b/Dustline_Arena_Top-Down_Shooter)
 
 ### 🏙️ City Runner 3D — 3D endless runner
  - Разработал с нуля playable prototype 3D endless runner на Unity
@@ -25,7 +25,7 @@
  - Реализовал бонусы: монеты, броня и магнит с притягиванием монет
  - Настроил HUD, игровые экраны, камеру, освещение и анимации персонажа
    
-[🔗 Репозиторий](https://github.com/KenWood2b/City_Runner_3D) | [▶️ itch.io](https://kenwood2b.itch.io/city-runner-3d-runner)
+  [🔗 Репозиторий](https://github.com/KenWood2b/City_Runner_3D) | [▶️ itch.io](https://kenwood2b.itch.io/city-runner-3d-runner)
 
 
 ---
