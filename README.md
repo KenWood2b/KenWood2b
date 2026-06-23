@@ -25,7 +25,7 @@
  - Реализовал бонусы: монеты, броня и магнит с притягиванием монет
  - Настроил HUD, игровые экраны, камеру, освещение и анимации персонажа
    
-   [🔗 Репозиторий](https://github.com/KenWood2b/City_Runner_3D) | [▶️ itch.io](https://kenwood2b.itch.io/city-runner-3d-runner)
+[🔗 Репозиторий](https://github.com/KenWood2b/City_Runner_3D) | [▶️ itch.io](https://kenwood2b.itch.io/city-runner-3d-runner)
 
 
 ---
